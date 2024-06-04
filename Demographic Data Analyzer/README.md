@@ -1,5 +1,5 @@
 # The Needed Function
-```
+```python
 import pandas as pd
 
 def calculate_demographic_data(print_data=True):
