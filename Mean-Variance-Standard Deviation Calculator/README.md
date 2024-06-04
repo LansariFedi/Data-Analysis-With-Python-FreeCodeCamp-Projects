@@ -1,5 +1,5 @@
 # The Needed Function
-```
+```python
 import numpy as np
 
 def calculate(list):
